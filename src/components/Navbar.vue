@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar-container">
     <div class="navbar-logo">
-      <img src="../assets/" alt="Mazda Hotel Logo" class="logo-image">
+      <img src="https://i.pinimg.com/736x/78/13/5b/78135b7caca88c61ea6b8d5d4e221ee9.jpg" alt="Mazda Hotel Logo" class="logo-image">
       <span class="logo-text">Mazda Hotel</span>
     </div>
     <ul class="nav-links">

@@ -5,10 +5,10 @@
         <h3 class="section-title">About Mazda Hotel</h3>
         <p>Providing luxurious stays and authentic cultural experiences since 2025. We are committed to excellence and guest satisfaction.</p>
         <div class="social-icons">
-          <a href="https://facebook.com" target="_blank" class="neu-social-icon"><img src="../assets/images/social-media-icons/facebook.png" alt="Facebook"></a>
-          <a href="https://twitter.com" target="_blank" class="neu-social-icon"><img src="../assets/images/social-media-icons/twitter.png" alt="Twitter"></a>
-          <a href="https://instagram.com" target="_blank" class="neu-social-icon"><img src="../assets/images/social-media-icons/instagram.png" alt="Instagram"></a>
-          <a href="https://linkedin.com" target="_blank" class="neu-social-icon"><img src="../assets/images/social-media-icons/linkedin.png" alt="LinkedIn"></a>
+          <a href="https://facebook.com" target="_blank" class="neu-social-icon"><img src="https://i.pinimg.com/736x/fa/69/01/fa6901c192bab2d22fafd9c6add8df67.jpg" alt="Facebook"></a>
+          <a href="https://twitter.com" target="_blank" class="neu-social-icon"><img src="https://i.pinimg.com/736x/9c/80/21/9c8021d07859bd76d20916b30ce5a676.jpg" alt="Twitter"></a>
+          <a href="https://instagram.com" target="_blank" class="neu-social-icon"><img src="https://i.pinimg.com/736x/a3/98/58/a39858011887b289e54ee4883abce777.jpg" alt="Instagram"></a>
+          <a href="https://linkedin.com" target="_blank" class="neu-social-icon"><img src="https://i.pinimg.com/736x/4c/ea/62/4cea62557d3c8e345f51e9dd3e9347ad.jpg" alt="LinkedIn"></a>
         </div>
       </div>
 
